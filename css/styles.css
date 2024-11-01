@@ -1,0 +1,20 @@
+.bg-dark {
+    background-color: #fdda3f !important; /* Sobrescribir color de fondo oscuro */
+}
+
+.navbar-nav .nav-link {
+    color: #0f0202 !important; /* Cambiar color de texto de los enlaces de navegación */
+}
+.card {
+    background-color: #ffffff !important; /* Cambiar el fondo de las tarjetas */
+    color: #0f0101 !important; /* Cambiar el color del texto dentro de las tarjetas */
+    border: none; /* Elimina bordes si no los necesitas */
+}
+.card-body {
+    background-color: #fffffc !important; /* Fondo del contenido de la tarjeta */
+    color: #200202 !important; /* Texto del contenido de la tarjeta */
+}
+.my-custom-card {
+    background-color: #ffffff;
+    color: #ffffff;
+}
